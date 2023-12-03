@@ -1,0 +1,229 @@
+@import url('https://fonts.googleapis.com/css2?family=Ephesis&family=Heebo:wght@600&family=Sacramento&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ephesis&family=Heebo:wght@600&family=Montserrat&family=Sacramento&display=swap');
+
+
+*{
+    padding: auto;
+    margin: auto;
+}
+.text{
+    size: 50%;
+    text-align: center;
+    color: #35A29F;
+    line-height: 50px;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+}
+li{
+    display: inline-block;
+    padding: 20px;
+}
+.logo{
+    height: 45px;
+}
+.cloud{
+    position: absolute;
+    bottom: 75%;
+    left: 65%;
+}
+.cloudt{
+    position: absolute;
+    bottom: 65%;
+    left: 20%;
+}
+h3{
+    font-family: 'Heebo', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 10px;
+}
+.mount{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 350px;
+    padding-top: 3.5%;
+
+   
+}
+.na.hover{
+    color: red;
+    
+}
+.navbar:hover{
+   
+}
+h1{
+    font-family: 'Ephesis', cursive;
+    font-family: 'Heebo', sans-serif;
+    font-family: 'Sacramento', cursive;
+    font-size: 60px;
+}
+.first{
+    background-color: #B4F1F1;
+}
+
+.log{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 100px;
+    padding-top: 3.5%;
+}
+h2{
+    text-align: center;
+    line-height: 200%;
+    font-family: 'Heebo', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    color: #000000;
+}
+h4{
+    text-align: center;
+    font-family: 'Heebo', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 13px;
+    color: #35A29F;
+}
+.third{
+    border: 2px solid #1E6262;
+    padding: 1.3em;
+    margin: 50px;
+    background-color: #1E6262;
+}
+h5{
+    font-size: 35px;
+    font-family: 'Heebo', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+.line{
+    text-align: start;
+    font-family: 'Heebo', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 13px;
+    
+    
+}
+.four{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.five{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: start;
+}
+.six{
+    font-size: 20px;
+    font-family: 'Heebo', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    border: 2px solid #1E6262;
+    padding: 1.3em;
+    margin: 50px;
+    background-color: #1E6262;
+    height: 100px;
+    width: 380px;
+    line-height: 60px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0%;
+}
+p{
+    text-align: center;
+    font-size: 15px;
+}
+h6{
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Heebo', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 13px;
+    
+}
+.btn{
+    border-radius: 30px;
+    text-align: center;
+    border: 3px solid #00d493;
+    height: 20px;
+    width: 120px;
+    margin-top: 20px;
+    padding: 8px 20px;
+    background-color: #00d493;
+}
+a{
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.sev{
+    border: 2px solid #1E6262;
+    background-color: #1E6262;
+    height: 100px;
+    
+}
+ul{
+    display: flex;
+    justify-content: space space-between;
+    align-items: center;
+}
+.fone{
+    margin-left: 0%;
+}
+.icon{
+    /* margin-left: 20px;
+    margin-right: 50px;
+    margin-top: 85px; */
+    font-size: 35px;
+    color: #00d493;
+}
+.ftwo{
+    margin-right: 0%;
+}
+.com{
+    /* margin-left: 50px; */
+    /* margin-right: 50px;
+    margin-top: 60px; */
+    font-size: 35px;
+    color: #00d493;
+}
+.loga{
+    display: block;
+    /* margin-left: 50px;
+    margin-right: auto; */
+    height: 100px;
+    padding-top: 20px;
+}
+.box{
+    margin: 0 400px;
+}
+
+.footer-sec{
+    margin-bottom: 20px;
+}
+.mess-btn{
+
+    color: #000;
+}
+
+.soc-ico{
+    font-size: 15px;
+    margin: 35px 20px;
+    text-align: center;
+    color: #35A29F;
+}
+
+.soc{
+    text-align: center;
+}
+.copyrighht{
+    font-size: 10px;
+}
+   
